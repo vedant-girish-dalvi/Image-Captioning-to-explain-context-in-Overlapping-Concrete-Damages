@@ -1,0 +1,1002 @@
+[
+  {
+    "image_id": "dacl10k_v2_validation_0256",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0256.jpg",
+    "caption": "efflorescence overlapping spalling damage at mid-center; efflorescence overlapping spalling damage at mid-center; efflorescence overlapping spalling damage at mid-center; efflorescence overlapping cavity damage at mid-center; efflorescence overlapping spalling damage at mid-center; efflorescence overlapping wetspot damage at mid-center; efflorescence overlapping cavity damage at mid-center; efflorescence overlapping cavity damage at mid-center; efflorescence overlapping cavity damage at mid-center; spalling overlapping wetspot damage at top-center; rust overlapping efflorescence damage at mid-left; rust overlapping efflorescence damage at mid-left; rust overlapping wetspot damage at mid-left; efflorescence overlapping wetspot damage at mid-left; efflorescence overlapping spalling damage at bottom-center; efflorescence overlapping cavity damage at bottom-center; efflorescence overlapping rust damage at bottom-center; efflorescence overlapping spalling damage at bottom-center; efflorescence overlapping wetspot damage at bottom-center; cavity overlapping wetspot damage at top-center; efflorescence overlapping wetspot damage at top-center; efflorescence overlapping wetspot damage at top-center; spalling overlapping spalling damage at bottom-center; rust overlapping wetspot damage at top-left; rust overlapping wetspot damage at top-left; spalling overlapping wetspot damage at mid-center; spalling overlapping wetspot damage at mid-center; crack overlapping wetspot damage at top-left; rust overlapping spalling damage at bottom-center; rust overlapping wetspot damage at bottom-center; rust overlapping spalling damage at bottom-center; rust overlapping wetspot damage at bottom-center; spalling overlapping wetspot damage at bottom-center; cavity overlapping wetspot damage at top-left; spalling overlapping wetspot damage at bottom-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0853",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0853.jpg",
+    "caption": "rust overlapping spalling damage at mid-right; rust overlapping wetspot damage at mid-left; rust overlapping wetspot damage at mid-left; rust overlapping wetspot damage at mid-left; rust overlapping wetspot damage at mid-left; rust overlapping wetspot damage at mid-left; rust overlapping wetspot damage at top-left; rust overlapping wetspot damage at top-left; rust overlapping wetspot damage at top-left; rust overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping wetspot damage at top-center; rust overlapping wetspot damage at top-center; rust overlapping wetspot damage at top-center; rust overlapping wetspot damage at top-center; rust overlapping wetspot damage at top-right; rust overlapping wetspot damage at mid-right; rust overlapping wetspot damage at mid-right; rust overlapping wetspot damage at top-right; rust overlapping wetspot damage at mid-right; rust overlapping spalling damage at mid-right; rust overlapping wetspot damage at mid-right; rust overlapping wetspot damage at top-center; rust overlapping wetspot damage at top-center; crack overlapping wetspot damage at mid-left; rust overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping wetspot damage at bottom-center; rockpocket overlapping wetspot damage at top-center; crack overlapping wetspot damage at mid-right; spalling overlapping wetspot damage at mid-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0257",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0257.jpg",
+    "caption": "efflorescence overlapping rust damage at mid-center; efflorescence overlapping wetspot damage at mid-center; spalling overlapping rust damage at bottom-center; spalling overlapping wetspot damage at bottom-center; rust overlapping wetspot damage at bottom-center; spalling overlapping spalling damage at mid-right; spalling overlapping spalling damage at mid-right; spalling overlapping efflorescence damage at mid-right; spalling overlapping wetspot damage at mid-right; spalling overlapping wetspot damage at bottom-right; spalling overlapping wetspot damage at bottom-right; spalling overlapping wetspot damage at bottom-center; spalling overlapping efflorescence damage at mid-right; spalling overlapping wetspot damage at mid-right; rust overlapping wetspot damage at mid-center; cavity overlapping wetspot damage at mid-left; cavity overlapping wetspot damage at mid-left; cavity overlapping wetspot damage at mid-left; cavity overlapping wetspot damage at mid-left; crack overlapping wetspot damage at mid-left; efflorescence overlapping spalling damage at mid-left; efflorescence overlapping wetspot damage at mid-left; spalling overlapping wetspot damage at mid-left; efflorescence overlapping wetspot damage at mid-right; wetspot overlapping cavity damage at mid-center; wetspot overlapping cavity damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0946",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0946.jpg",
+    "caption": "spalling overlapping efflorescence damage at mid-center; spalling overlapping wetspot damage at mid-center; rockpocket overlapping efflorescence damage at bottom-center; spalling overlapping efflorescence damage at bottom-left; spalling overlapping wetspot damage at bottom-left; cavity overlapping wetspot damage at mid-left; cavity overlapping wetspot damage at bottom-center; cavity overlapping efflorescence damage at bottom-center; cavity overlapping wetspot damage at bottom-center; cavity overlapping efflorescence damage at bottom-center; cavity overlapping wetspot damage at bottom-center; cavity overlapping efflorescence damage at bottom-center; cavity overlapping wetspot damage at bottom-center; crack overlapping efflorescence damage at mid-left; crack overlapping wetspot damage at mid-left; crack overlapping efflorescence damage at bottom-right; crack overlapping wetspot damage at bottom-right; crack overlapping efflorescence damage at mid-right; crack overlapping wetspot damage at mid-right; efflorescence overlapping cavity damage at bottom-center; efflorescence overlapping wetspot damage at bottom-center; cavity overlapping wetspot damage at mid-left; cavity overlapping wetspot damage at top-center; cavity overlapping wetspot damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0112",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0112.jpg",
+    "caption": "cavity overlapping spalling damage at bottom-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping crack damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping efflorescence damage at mid-center; spalling overlapping efflorescence damage at mid-center; rust overlapping efflorescence damage at bottom-right; rust overlapping efflorescence damage at bottom-right; efflorescence overlapping rust damage at mid-right; efflorescence overlapping rust damage at mid-right; efflorescence overlapping rust damage at mid-right; efflorescence overlapping rust damage at mid-right; efflorescence overlapping rust damage at mid-right; efflorescence overlapping rust damage at mid-right; rust overlapping crack damage at top-right; rust overlapping crack damage at top-right; rust overlapping rust damage at mid-center; crack overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0252",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0252.jpg",
+    "caption": "spalling overlapping wetspot damage at top-center; rust overlapping crack damage at bottom-center; rust overlapping wetspot damage at bottom-center; cavity overlapping wetspot damage at mid-center; crack overlapping wetspot damage at bottom-center; cavity overlapping wetspot damage at top-center; cavity overlapping wetspot damage at top-center; cavity overlapping wetspot damage at top-center; cavity overlapping wetspot damage at top-center; cavity overlapping wetspot damage at mid-center; cavity overlapping wetspot damage at top-center; cavity overlapping wetspot damage at top-right; cavity overlapping wetspot damage at top-right; cavity overlapping wetspot damage at bottom-center; cavity overlapping wetspot damage at bottom-center; cavity overlapping wetspot damage at bottom-center; cavity overlapping wetspot damage at mid-center; cavity overlapping wetspot damage at mid-right; cavity overlapping wetspot damage at top-center; crack overlapping wetspot damage at top-center; wetspot overlapping cavity damage at mid-center; wetspot overlapping cavity damage at mid-center; wetspot overlapping cavity damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0335",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0335.jpg",
+    "caption": "spalling overlapping rust damage at bottom-right; spalling overlapping spalling damage at bottom-right; rust overlapping spalling damage at bottom-left; rust overlapping crack damage at bottom-left; rust overlapping wetspot damage at bottom-left; crack overlapping rust damage at mid-center; crack overlapping efflorescence damage at mid-center; rust overlapping wetspot damage at mid-left; rust overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping efflorescence damage at bottom-center; rust overlapping efflorescence damage at bottom-center; rust overlapping wetspot damage at top-left; spalling overlapping wetspot damage at mid-center; rust overlapping efflorescence damage at top-right; efflorescence overlapping rust damage at bottom-right; efflorescence overlapping rust damage at bottom-right; rust overlapping wetspot damage at mid-center; rust overlapping crack damage at bottom-left; rust overlapping spalling damage at bottom-right; rust overlapping wetspot damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0229",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0229.jpg",
+    "caption": "efflorescence overlapping efflorescence damage at mid-center; efflorescence overlapping cavity damage at mid-center; efflorescence overlapping wetspot damage at mid-center; efflorescence overlapping wetspot damage at mid-center; efflorescence overlapping wetspot damage at mid-center; cavity overlapping wetspot damage at bottom-right; spalling overlapping wetspot damage at bottom-center; cavity overlapping wetspot damage at bottom-center; cavity overlapping wetspot damage at bottom-center; efflorescence overlapping wetspot damage at top-center; efflorescence overlapping wetspot damage at top-center; efflorescence overlapping wetspot damage at top-center; cavity overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-center; spalling overlapping wetspot damage at mid-center; cavity overlapping wetspot damage at mid-center; cavity overlapping efflorescence damage at bottom-right; efflorescence overlapping wetspot damage at bottom-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0235",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0235.jpg",
+    "caption": "rust overlapping wetspot damage at top-left; rust overlapping crack damage at top-left; rust overlapping efflorescence damage at top-center; rust overlapping wetspot damage at top-center; rust overlapping crack damage at top-center; rust overlapping efflorescence damage at top-center; rust overlapping wetspot damage at top-center; efflorescence overlapping wetspot damage at top-center; efflorescence overlapping crack damage at top-center; efflorescence overlapping rust damage at mid-right; efflorescence overlapping wetspot damage at mid-right; efflorescence overlapping spalling damage at mid-right; rust overlapping wetspot damage at mid-right; wetspot overlapping crack damage at mid-center; wetspot overlapping rust damage at mid-center; wetspot overlapping spalling damage at mid-center; wetspot overlapping spalling damage at mid-center; wetspot overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0581",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0581.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-left; spalling overlapping rust damage at mid-left; spalling overlapping rust damage at mid-left; spalling overlapping rust damage at mid-left; spalling overlapping rust damage at mid-left; spalling overlapping rust damage at top-left; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at top-right; spalling overlapping rust damage at bottom-center; spalling overlapping rust damage at bottom-right; spalling overlapping rust damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0375",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0375.jpg",
+    "caption": "rust overlapping cavity damage at top-center; rust overlapping spalling damage at top-center; rust overlapping spalling damage at top-center; rust overlapping cavity damage at top-right; rust overlapping spalling damage at top-right; rust overlapping efflorescence damage at top-right; rust overlapping efflorescence damage at top-right; rust overlapping efflorescence damage at top-center; rust overlapping efflorescence damage at top-right; rust overlapping spalling damage at mid-center; efflorescence overlapping rust damage at top-center; efflorescence overlapping rust damage at top-center; cavity overlapping crack damage at top-left; cavity overlapping spalling damage at top-left; crack overlapping spalling damage at mid-left; cavity overlapping spalling damage at mid-right; spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0102",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0102.jpg",
+    "caption": "rust overlapping spalling damage at mid-right; rust overlapping efflorescence damage at bottom-center; rust overlapping efflorescence damage at bottom-right; rust overlapping spalling damage at bottom-right; rust overlapping efflorescence damage at bottom-right; rust overlapping spalling damage at bottom-right; rust overlapping crack damage at mid-left; rust overlapping efflorescence damage at mid-left; rust overlapping spalling damage at bottom-left; rust overlapping spalling damage at bottom-left; rust overlapping spalling damage at mid-center; rust overlapping crack damage at mid-center; rust overlapping spalling damage at top-right; spalling overlapping crack damage at mid-right; efflorescence overlapping spalling damage at bottom-right; crack overlapping spalling damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0115",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0115.jpg",
+    "caption": "rust overlapping rust damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping rust damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping wetspot damage at mid-center; spalling overlapping wetspot damage at mid-right; spalling overlapping wetspot damage at bottom-right; spalling overlapping wetspot damage at mid-right; spalling overlapping wetspot damage at mid-right; spalling overlapping wetspot damage at top-center; cavity overlapping wetspot damage at top-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0410",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0410.jpg",
+    "caption": "crack overlapping wetspot damage at mid-left; crack overlapping crack damage at mid-center; crack overlapping crack damage at mid-center; crack overlapping wetspot damage at mid-center; crack overlapping wetspot damage at mid-center; crack overlapping wetspot damage at mid-left; crack overlapping wetspot damage at mid-center; cavity overlapping wetspot damage at top-center; rockpocket overlapping wetspot damage at bottom-left; cavity overlapping wetspot damage at mid-left; cavity overlapping wetspot damage at mid-center; spalling overlapping wetspot damage at top-left; cavity overlapping wetspot damage at top-center; cavity overlapping wetspot damage at top-center; cavity overlapping wetspot damage at bottom-left; cavity overlapping wetspot damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0873",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0873.jpg",
+    "caption": "rust overlapping cavity damage at top-center; rust overlapping cavity damage at top-center; rust overlapping wetspot damage at top-center; rockpocket overlapping wetspot damage at top-center; crack overlapping wetspot damage at mid-center; spalling overlapping wetspot damage at mid-center; spalling overlapping wetspot damage at mid-right; cavity overlapping wetspot damage at top-right; cavity overlapping wetspot damage at top-center; cavity overlapping wetspot damage at top-center; cavity overlapping wetspot damage at top-center; cavity overlapping wetspot damage at top-right; cavity overlapping wetspot damage at top-center; cavity overlapping wetspot damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0095",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0095.jpg",
+    "caption": "rust overlapping spalling damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping spalling damage at top-right; rust overlapping wetspot damage at top-right; spalling overlapping wetspot damage at top-right; spalling overlapping crack damage at top-right; spalling overlapping wetspot damage at mid-center; wetspot overlapping efflorescence damage at bottom-right; wetspot overlapping spalling damage at mid-center; wetspot overlapping efflorescence damage at mid-center; wetspot overlapping spalling damage at mid-center; wetspot overlapping crack damage at mid-center; wetspot overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0267",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0267.jpg",
+    "caption": "spalling overlapping efflorescence damage at mid-right; rust overlapping efflorescence damage at mid-center; rust overlapping efflorescence damage at mid-center; rust overlapping efflorescence damage at mid-right; rust overlapping efflorescence damage at mid-center; rust overlapping efflorescence damage at mid-center; rust overlapping efflorescence damage at mid-right; rust overlapping efflorescence damage at bottom-right; rust overlapping spalling damage at top-right; rust overlapping efflorescence damage at top-center; rust overlapping spalling damage at top-center; efflorescence overlapping crack damage at mid-center; efflorescence overlapping spalling damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0951",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0951.jpg",
+    "caption": "crack overlapping spalling damage at mid-center; crack overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-center; spalling overlapping wetspot damage at bottom-center; spalling overlapping wetspot damage at bottom-center; rust overlapping wetspot damage at top-left; rust overlapping wetspot damage at top-center; spalling overlapping spalling damage at top-left; spalling overlapping wetspot damage at top-left; crack overlapping wetspot damage at top-left; spalling overlapping wetspot damage at mid-center; spalling overlapping wetspot damage at top-left; spalling overlapping wetspot damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0200",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0200.jpg",
+    "caption": "spalling overlapping rust damage at top-center; spalling overlapping efflorescence damage at top-center; spalling overlapping rust damage at bottom-center; spalling overlapping wetspot damage at bottom-center; rust overlapping efflorescence damage at mid-center; rust overlapping efflorescence damage at mid-center; rust overlapping efflorescence damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping efflorescence damage at mid-center; efflorescence overlapping spalling damage at mid-center; efflorescence overlapping wetspot damage at mid-center; efflorescence overlapping wetspot damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0465",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0465.jpg",
+    "caption": "crack overlapping spalling damage at mid-left; crack overlapping spalling damage at mid-center; crack overlapping rust damage at mid-center; crack overlapping spalling damage at mid-center; crack overlapping rust damage at mid-center; crack overlapping rust damage at mid-center; crack overlapping rust damage at top-right; crack overlapping efflorescence damage at top-right; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping efflorescence damage at mid-center; rust overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0081",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0081.jpg",
+    "caption": "rust overlapping spalling damage at bottom-center; spalling overlapping rust damage at top-left; spalling overlapping rust damage at top-left; rust overlapping rust damage at top-left; rust overlapping spalling damage at mid-left; rust overlapping rust damage at mid-left; spalling overlapping rust damage at mid-left; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at top-center; spalling overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0094",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0094.jpg",
+    "caption": "crack overlapping rust damage at top-center; crack overlapping spalling damage at top-center; spalling overlapping rust damage at top-right; spalling overlapping rust damage at top-right; spalling overlapping crack damage at top-left; crack overlapping spalling damage at top-left; rust overlapping rust damage at top-center; rust overlapping rust damage at top-right; rust overlapping spalling damage at top-left; rust overlapping spalling damage at top-left; spalling overlapping crack damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0179",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0179.jpg",
+    "caption": "rust overlapping rust damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping rust damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at top-center; spalling overlapping efflorescence damage at mid-left; rust overlapping spalling damage at top-center; rust overlapping spalling damage at top-center; rust overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0858",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0858.jpg",
+    "caption": "rust overlapping rust damage at top-center; rust overlapping spalling damage at top-center; rust overlapping wetspot damage at top-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at top-right; rust overlapping wetspot damage at top-right; rust overlapping wetspot damage at bottom-left; rust overlapping spalling damage at bottom-left; spalling overlapping wetspot damage at mid-center; spalling overlapping wetspot damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0034",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0034.jpg",
+    "caption": "rust overlapping spalling damage at mid-right; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at mid-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0100",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0100.jpg",
+    "caption": "rust overlapping rust damage at mid-left; rust overlapping spalling damage at mid-left; rust overlapping wetspot damage at mid-left; rust overlapping spalling damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping wetspot damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0395",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0395.jpg",
+    "caption": "wetspot overlapping cavity damage at mid-center; wetspot overlapping crack damage at mid-center; wetspot overlapping cavity damage at mid-center; wetspot overlapping crack damage at mid-center; cavity overlapping crack damage at mid-left; cavity overlapping wetspot damage at mid-left; cavity overlapping wetspot damage at mid-left; crack overlapping cavity damage at mid-right; cavity overlapping wetspot damage at mid-right; cavity overlapping wetspot damage at mid-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0083",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0083.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping efflorescence damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; rust overlapping efflorescence damage at mid-center; rust overlapping rust damage at mid-center; rust overlapping crack damage at top-left; efflorescence overlapping rust damage at mid-right; rust overlapping rust damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0139",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0139.jpg",
+    "caption": "spalling overlapping crack damage at mid-center; spalling overlapping crack damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping crack damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; crack overlapping crack damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0184",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0184.jpg",
+    "caption": "efflorescence overlapping spalling damage at mid-left; efflorescence overlapping rust damage at mid-left; efflorescence overlapping rust damage at mid-left; efflorescence overlapping rust damage at mid-left; efflorescence overlapping spalling damage at mid-left; rust overlapping spalling damage at mid-right; spalling overlapping rust damage at bottom-left; spalling overlapping rust damage at bottom-left; spalling overlapping rust damage at bottom-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0276",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0276.jpg",
+    "caption": "rust overlapping crack damage at mid-center; rust overlapping rust damage at mid-center; rust overlapping rust damage at bottom-center; crack overlapping rust damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping crack damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0289",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0289.jpg",
+    "caption": "spalling overlapping rust damage at top-center; rockpocket overlapping wetspot damage at top-right; rockpocket overlapping efflorescence damage at top-right; rust overlapping spalling damage at mid-left; rust overlapping efflorescence damage at top-center; efflorescence overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping wetspot damage at mid-center; spalling overlapping wetspot damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0394",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0394.jpg",
+    "caption": "crack overlapping spalling damage at mid-center; crack overlapping spalling damage at mid-center; crack overlapping spalling damage at mid-center; crack overlapping rust damage at mid-center; crack overlapping spalling damage at mid-center; crack overlapping cavity damage at mid-center; rust overlapping spalling damage at top-center; spalling overlapping crack damage at top-center; rust overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0855",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0855.jpg",
+    "caption": "wetspot overlapping spalling damage at mid-center; wetspot overlapping rust damage at mid-center; wetspot overlapping rust damage at mid-center; wetspot overlapping rust damage at mid-center; wetspot overlapping cavity damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0096",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0096.jpg",
+    "caption": "rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; spalling overlapping rust damage at mid-center; rust overlapping spalling damage at top-center; rust overlapping spalling damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0109",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0109.jpg",
+    "caption": "efflorescence overlapping spalling damage at top-center; efflorescence overlapping rust damage at top-center; efflorescence overlapping spalling damage at top-left; spalling overlapping rust damage at bottom-right; spalling overlapping rust damage at bottom-left; spalling overlapping rust damage at top-center; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0114",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0114.jpg",
+    "caption": "rust overlapping spalling damage at bottom-right; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; spalling overlapping spalling damage at top-center; efflorescence overlapping spalling damage at mid-right; efflorescence overlapping spalling damage at bottom-right; efflorescence overlapping spalling damage at bottom-right; efflorescence overlapping rust damage at bottom-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0118",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0118.jpg",
+    "caption": "efflorescence overlapping rust damage at top-center; efflorescence overlapping rust damage at top-center; efflorescence overlapping rust damage at top-center; efflorescence overlapping rust damage at top-center; efflorescence overlapping spalling damage at top-center; rust overlapping spalling damage at mid-left; rust overlapping spalling damage at mid-right; rust overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0413",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0413.jpg",
+    "caption": "rust overlapping spalling damage at top-left; rust overlapping rust damage at top-left; rust overlapping rust damage at top-left; spalling overlapping rust damage at top-left; spalling overlapping rust damage at top-left; spalling overlapping crack damage at mid-center; spalling overlapping rust damage at mid-right; rust overlapping spalling damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0894",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0894.jpg",
+    "caption": "rust overlapping rust damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping rust damage at mid-center; rust overlapping crack damage at mid-center; rust overlapping crack damage at mid-center; rust overlapping spalling damage at top-center; rust overlapping rust damage at mid-right; spalling overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0922",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0922.jpg",
+    "caption": "spalling overlapping wetspot damage at mid-left; spalling overlapping wetspot damage at top-center; spalling overlapping wetspot damage at bottom-left; spalling overlapping wetspot damage at bottom-center; cavity overlapping wetspot damage at top-right; cavity overlapping wetspot damage at top-right; cavity overlapping wetspot damage at mid-right; cavity overlapping wetspot damage at top-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0060",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0060.jpg",
+    "caption": "spalling overlapping rust damage at mid-left; spalling overlapping wetspot damage at mid-left; spalling overlapping wetspot damage at bottom-center; spalling overlapping wetspot damage at top-center; spalling overlapping rust damage at bottom-center; spalling overlapping rust damage at bottom-center; rust overlapping rust damage at bottom-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0130",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0130.jpg",
+    "caption": "crack overlapping rust damage at mid-center; crack overlapping rust damage at mid-center; crack overlapping rust damage at mid-center; crack overlapping crack damage at mid-center; spalling overlapping efflorescence damage at bottom-center; rust overlapping efflorescence damage at bottom-right; efflorescence overlapping efflorescence damage at bottom-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0195",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0195.jpg",
+    "caption": "crack overlapping wetspot damage at top-left; crack overlapping efflorescence damage at top-left; crack overlapping wetspot damage at top-left; crack overlapping efflorescence damage at top-left; rust overlapping wetspot damage at mid-left; rust overlapping efflorescence damage at mid-left; wetspot overlapping efflorescence damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0328",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0328.jpg",
+    "caption": "rockpocket overlapping efflorescence damage at mid-center; rockpocket overlapping efflorescence damage at mid-center; spalling overlapping rust damage at mid-left; spalling overlapping rust damage at mid-right; spalling overlapping efflorescence damage at mid-right; spalling overlapping crack damage at mid-right; rust overlapping efflorescence damage at mid-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0486",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0486.jpg",
+    "caption": "efflorescence overlapping rust damage at mid-center; efflorescence overlapping wetspot damage at mid-center; efflorescence overlapping rust damage at mid-center; efflorescence overlapping wetspot damage at mid-center; efflorescence overlapping rust damage at mid-center; rust overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0541",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0541.jpg",
+    "caption": "spalling overlapping crack damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-right; crack overlapping rust damage at bottom-left; crack overlapping efflorescence damage at bottom-left; rust overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0859",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0859.jpg",
+    "caption": "spalling overlapping rust damage at bottom-center; spalling overlapping rust damage at bottom-center; spalling overlapping wetspot damage at bottom-center; spalling overlapping wetspot damage at mid-left; crack overlapping spalling damage at mid-left; rust overlapping wetspot damage at bottom-center; rust overlapping wetspot damage at bottom-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0934",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0934.jpg",
+    "caption": "efflorescence overlapping wetspot damage at top-center; rust overlapping wetspot damage at mid-center; rust overlapping wetspot damage at bottom-right; rust overlapping wetspot damage at bottom-right; rust overlapping wetspot damage at bottom-right; rust overlapping wetspot damage at top-right; rust overlapping wetspot damage at top-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0259",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0259.jpg",
+    "caption": "wetspot overlapping efflorescence damage at mid-center; wetspot overlapping rust damage at mid-center; wetspot overlapping spalling damage at mid-center; wetspot overlapping efflorescence damage at mid-center; wetspot overlapping efflorescence damage at mid-center; rust overlapping spalling damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0285",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0285.jpg",
+    "caption": "rust overlapping rust damage at top-left; rust overlapping rust damage at top-left; rust overlapping spalling damage at top-left; spalling overlapping rust damage at top-right; rust overlapping crack damage at mid-center; rust overlapping spalling damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0320",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0320.jpg",
+    "caption": "rust overlapping spalling damage at mid-center; rust overlapping cavity damage at top-left; cavity overlapping spalling damage at top-left; rust overlapping spalling damage at mid-center; spalling overlapping crack damage at mid-center; spalling overlapping crack damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0334",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0334.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping efflorescence damage at mid-center; spalling overlapping rust damage at mid-center; efflorescence overlapping rust damage at bottom-center; cavity overlapping efflorescence damage at bottom-right; cavity overlapping efflorescence damage at bottom-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0397",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0397.jpg",
+    "caption": "cavity overlapping rust damage at mid-center; cavity overlapping spalling damage at mid-center; cavity overlapping wetspot damage at mid-center; rust overlapping spalling damage at mid-right; rust overlapping wetspot damage at mid-right; spalling overlapping wetspot damage at mid-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0550",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0550.jpg",
+    "caption": "crack overlapping spalling damage at mid-center; crack overlapping rust damage at mid-center; crack overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; rust overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0803",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0803.jpg",
+    "caption": "spalling overlapping efflorescence damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; efflorescence overlapping rust damage at mid-left; rust overlapping crack damage at bottom-right; rust overlapping crack damage at bottom-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0905",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0905.jpg",
+    "caption": "spalling overlapping rust damage at bottom-right; spalling overlapping rust damage at bottom-right; spalling overlapping rust damage at bottom-right; spalling overlapping rust damage at bottom-right; spalling overlapping rust damage at bottom-right; spalling overlapping rust damage at bottom-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0039",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0039.jpg",
+    "caption": "spalling overlapping wetspot damage at mid-center; crack overlapping efflorescence damage at top-left; crack overlapping wetspot damage at top-left; efflorescence overlapping wetspot damage at top-left; wetspot overlapping spalling damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0048",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0048.jpg",
+    "caption": "rust overlapping spalling damage at top-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at mid-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0071",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0071.jpg",
+    "caption": "spalling overlapping rust damage at bottom-right; rust overlapping wetspot damage at mid-left; rust overlapping spalling damage at top-left; spalling overlapping efflorescence damage at top-left; efflorescence overlapping wetspot damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0074",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0074.jpg",
+    "caption": "rust overlapping spalling damage at mid-left; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-right; rust overlapping spalling damage at mid-right; rust overlapping spalling damage at mid-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0108",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0108.jpg",
+    "caption": "rust overlapping spalling damage at top-center; rust overlapping spalling damage at top-right; rust overlapping spalling damage at top-right; rust overlapping spalling damage at mid-left; spalling overlapping crack damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0194",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0194.jpg",
+    "caption": "rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at bottom-center; spalling overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0311",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0311.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping crack damage at mid-center; rust overlapping efflorescence damage at top-left; rust overlapping efflorescence damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0343",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0343.jpg",
+    "caption": "rust overlapping spalling damage at top-center; crack overlapping spalling damage at bottom-right; crack overlapping spalling damage at bottom-center; crack overlapping spalling damage at bottom-center; crack overlapping spalling damage at bottom-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0389",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0389.jpg",
+    "caption": "crack overlapping efflorescence damage at mid-center; efflorescence overlapping spalling damage at top-center; efflorescence overlapping spalling damage at top-center; efflorescence overlapping crack damage at top-center; spalling overlapping crack damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0441",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0441.jpg",
+    "caption": "efflorescence overlapping wetspot damage at mid-center; efflorescence overlapping wetspot damage at top-center; efflorescence overlapping wetspot damage at top-left; wetspot overlapping efflorescence damage at mid-center; wetspot overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0492",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0492.jpg",
+    "caption": "efflorescence overlapping rust damage at mid-left; efflorescence overlapping wetspot damage at mid-left; efflorescence overlapping wetspot damage at mid-left; spalling overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0546",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0546.jpg",
+    "caption": "spalling overlapping rust damage at mid-left; spalling overlapping crack damage at mid-left; spalling overlapping crack damage at mid-left; spalling overlapping rust damage at mid-right; crack overlapping crack damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0558",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0558.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0575",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0575.jpg",
+    "caption": "spalling overlapping rust damage at top-center; spalling overlapping rust damage at top-center; spalling overlapping rust damage at top-center; spalling overlapping rust damage at top-center; spalling overlapping rust damage at top-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0579",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0579.jpg",
+    "caption": "spalling overlapping rust damage at top-center; spalling overlapping rust damage at top-center; spalling overlapping rust damage at top-center; spalling overlapping rust damage at top-center; spalling overlapping rust damage at bottom-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0800",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0800.jpg",
+    "caption": "rust overlapping spalling damage at mid-left; rust overlapping spalling damage at mid-left; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0809",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0809.jpg",
+    "caption": "rust overlapping spalling damage at mid-left; spalling overlapping rust damage at top-right; spalling overlapping rust damage at top-right; spalling overlapping rust damage at top-right; rust overlapping rust damage at top-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0866",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0866.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; rust overlapping efflorescence damage at top-center; rust overlapping rockpocket damage at top-center; rockpocket overlapping wetspot damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0904",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0904.jpg",
+    "caption": "spalling overlapping efflorescence damage at mid-center; spalling overlapping wetspot damage at mid-center; efflorescence overlapping wetspot damage at mid-center; efflorescence overlapping wetspot damage at bottom-right; efflorescence overlapping wetspot damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0047",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0047.jpg",
+    "caption": "rockpocket overlapping rust damage at mid-center; rust overlapping spalling damage at top-left; rust overlapping spalling damage at top-left; spalling overlapping spalling damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0062",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0062.jpg",
+    "caption": "spalling overlapping efflorescence damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping wetspot damage at mid-center; rust overlapping wetspot damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0068",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0068.jpg",
+    "caption": "rockpocket overlapping efflorescence damage at top-left; spalling overlapping wetspot damage at mid-center; rust overlapping wetspot damage at bottom-left; spalling overlapping wetspot damage at bottom-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0076",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0076.jpg",
+    "caption": "rust overlapping efflorescence damage at mid-center; rust overlapping spalling damage at mid-center; efflorescence overlapping spalling damage at bottom-left; spalling overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0093",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0093.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at bottom-center; spalling overlapping crack damage at mid-right; spalling overlapping rust damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0097",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0097.jpg",
+    "caption": "crack overlapping spalling damage at mid-center; crack overlapping wetspot damage at mid-center; crack overlapping wetspot damage at mid-right; spalling overlapping wetspot damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0123",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0123.jpg",
+    "caption": "rust overlapping crack damage at mid-center; rust overlapping wetspot damage at mid-center; crack overlapping crack damage at top-right; crack overlapping wetspot damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0192",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0192.jpg",
+    "caption": "rust overlapping efflorescence damage at mid-left; rust overlapping spalling damage at mid-left; efflorescence overlapping spalling damage at mid-left; crack overlapping rust damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0228",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0228.jpg",
+    "caption": "cavity overlapping efflorescence damage at mid-center; cavity overlapping efflorescence damage at bottom-center; efflorescence overlapping spalling damage at bottom-center; efflorescence overlapping spalling damage at bottom-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0232",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0232.jpg",
+    "caption": "rust overlapping rust damage at mid-center; rust overlapping efflorescence damage at mid-center; rust overlapping spalling damage at mid-center; efflorescence overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0258",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0258.jpg",
+    "caption": "spalling overlapping rust damage at top-left; spalling overlapping wetspot damage at top-left; rust overlapping wetspot damage at top-left; rust overlapping wetspot damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0382",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0382.jpg",
+    "caption": "crack overlapping efflorescence damage at mid-right; crack overlapping efflorescence damage at bottom-left; crack overlapping efflorescence damage at mid-left; crack overlapping efflorescence damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0401",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0401.jpg",
+    "caption": "crack overlapping crack damage at mid-left; crack overlapping cavity damage at mid-left; crack overlapping cavity damage at mid-left; crack overlapping cavity damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0461",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0461.jpg",
+    "caption": "crack overlapping rust damage at top-center; crack overlapping rust damage at top-center; crack overlapping rust damage at top-center; crack overlapping rust damage at bottom-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0650",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0650.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping efflorescence damage at mid-center; rust overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0669",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0669.jpg",
+    "caption": "spalling overlapping efflorescence damage at top-right; spalling overlapping rust damage at top-right; spalling overlapping rust damage at mid-center; efflorescence overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0727",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0727.jpg",
+    "caption": "rust overlapping crack damage at mid-center; rust overlapping crack damage at mid-right; crack overlapping rust damage at mid-left; crack overlapping rust damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0844",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0844.jpg",
+    "caption": "rust overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping wetspot damage at mid-center; rust overlapping wetspot damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0898",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0898.jpg",
+    "caption": "spalling overlapping rust damage at top-left; spalling overlapping rust damage at top-left; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at top-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0911",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0911.jpg",
+    "caption": "spalling overlapping wetspot damage at top-left; cavity overlapping wetspot damage at top-right; cavity overlapping wetspot damage at mid-right; spalling overlapping wetspot damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0939",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0939.jpg",
+    "caption": "rust overlapping spalling damage at bottom-center; rust overlapping spalling damage at bottom-left; rust overlapping spalling damage at bottom-center; rust overlapping spalling damage at bottom-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0046",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0046.jpg",
+    "caption": "efflorescence overlapping wetspot damage at mid-center; wetspot overlapping efflorescence damage at bottom-right; wetspot overlapping efflorescence damage at bottom-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0049",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0049.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-left; spalling overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0085",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0085.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping efflorescence damage at mid-center; spalling overlapping rust damage at mid-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0101",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0101.jpg",
+    "caption": "rust overlapping spalling damage at bottom-center; rust overlapping spalling damage at bottom-right; rust overlapping spalling damage at bottom-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0104",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0104.jpg",
+    "caption": "rust overlapping rust damage at mid-center; rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0128",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0128.jpg",
+    "caption": "wetspot overlapping cavity damage at mid-center; wetspot overlapping cavity damage at mid-center; wetspot overlapping cavity damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0280",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0280.jpg",
+    "caption": "rust overlapping wetspot damage at top-center; spalling overlapping wetspot damage at top-left; spalling overlapping wetspot damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0317",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0317.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0318",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0318.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping crack damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0329",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0329.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping cavity damage at mid-center; rust overlapping cavity damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0336",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0336.jpg",
+    "caption": "crack overlapping rust damage at mid-center; spalling overlapping rust damage at top-center; spalling overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0344",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0344.jpg",
+    "caption": "rust overlapping spalling damage at mid-center; rust overlapping wetspot damage at mid-center; spalling overlapping wetspot damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0427",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0427.jpg",
+    "caption": "spalling overlapping rust damage at mid-left; spalling overlapping crack damage at mid-left; spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0450",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0450.jpg",
+    "caption": "crack overlapping wetspot damage at mid-left; crack overlapping wetspot damage at mid-left; crack overlapping wetspot damage at mid-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0470",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0470.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; rust overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0501",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0501.jpg",
+    "caption": "rust overlapping rust damage at top-left; rust overlapping efflorescence damage at top-left; rust overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0568",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0568.jpg",
+    "caption": "spalling overlapping rust damage at bottom-center; spalling overlapping rust damage at bottom-center; spalling overlapping rust damage at bottom-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0577",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0577.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0578",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0578.jpg",
+    "caption": "rust overlapping rust damage at mid-center; rust overlapping spalling damage at bottom-center; spalling overlapping rust damage at bottom-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0606",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0606.jpg",
+    "caption": "rust overlapping crack damage at mid-center; rust overlapping spalling damage at mid-center; crack overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0622",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0622.jpg",
+    "caption": "spalling overlapping rust damage at mid-right; spalling overlapping spalling damage at mid-right; spalling overlapping rust damage at bottom-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0638",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0638.jpg",
+    "caption": "crack overlapping spalling damage at mid-center; spalling overlapping rust damage at top-center; spalling overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0707",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0707.jpg",
+    "caption": "crack overlapping spalling damage at top-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0795",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0795.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-right; spalling overlapping rust damage at mid-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0796",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0796.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0867",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0867.jpg",
+    "caption": "rust overlapping wetspot damage at mid-center; rust overlapping rust damage at mid-center; wetspot overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0869",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0869.jpg",
+    "caption": "spalling overlapping efflorescence damage at mid-center; spalling overlapping crack damage at mid-center; efflorescence overlapping crack damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0913",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0913.jpg",
+    "caption": "wetspot overlapping rust damage at mid-center; wetspot overlapping rust damage at mid-center; wetspot overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0928",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0928.jpg",
+    "caption": "rust overlapping spalling damage at top-right; rust overlapping rust damage at top-right; spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0031",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0031.jpg",
+    "caption": "efflorescence overlapping wetspot damage at mid-center; efflorescence overlapping wetspot damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0054",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0054.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping crack damage at bottom-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0061",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0061.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; rust overlapping wetspot damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0065",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0065.jpg",
+    "caption": "rust overlapping spalling damage at mid-center; spalling overlapping crack damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0069",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0069.jpg",
+    "caption": "spalling overlapping rust damage at mid-left; spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0090",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0090.jpg",
+    "caption": "efflorescence overlapping rust damage at mid-center; efflorescence overlapping wetspot damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0125",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0125.jpg",
+    "caption": "rust overlapping wetspot damage at top-left; rust overlapping wetspot damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0215",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0215.jpg",
+    "caption": "wetspot overlapping spalling damage at mid-center; wetspot overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0231",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0231.jpg",
+    "caption": "rust overlapping spalling damage at mid-right; rust overlapping spalling damage at mid-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0306",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0306.jpg",
+    "caption": "efflorescence overlapping rust damage at bottom-center; efflorescence overlapping rust damage at bottom-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0321",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0321.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0331",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0331.jpg",
+    "caption": "rust overlapping spalling damage at top-center; rust overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0408",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0408.jpg",
+    "caption": "rust overlapping efflorescence damage at bottom-left; cavity overlapping rust damage at top-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0498",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0498.jpg",
+    "caption": "spalling overlapping rust damage at top-left; spalling overlapping rust damage at top-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0556",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0556.jpg",
+    "caption": "crack overlapping efflorescence damage at mid-center; crack overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0564",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0564.jpg",
+    "caption": "spalling overlapping rust damage at mid-center; spalling overlapping crack damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0591",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0591.jpg",
+    "caption": "spalling overlapping rust damage at mid-left; spalling overlapping crack damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0600",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0600.jpg",
+    "caption": "efflorescence overlapping rust damage at top-center; efflorescence overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0642",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0642.jpg",
+    "caption": "efflorescence overlapping spalling damage at top-center; efflorescence overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0705",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0705.jpg",
+    "caption": "rust overlapping crack damage at mid-left; rust overlapping spalling damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0737",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0737.jpg",
+    "caption": "rust overlapping spalling damage at mid-center; rust overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0794",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0794.jpg",
+    "caption": "spalling overlapping rust damage at top-left; spalling overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0798",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0798.jpg",
+    "caption": "spalling overlapping rust damage at top-center; spalling overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0805",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0805.jpg",
+    "caption": "spalling overlapping rust damage at mid-right; spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0814",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0814.jpg",
+    "caption": "rust overlapping spalling damage at top-left; rust overlapping spalling damage at top-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0868",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0868.jpg",
+    "caption": "spalling overlapping rust damage at bottom-left; spalling overlapping rust damage at bottom-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0887",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0887.jpg",
+    "caption": "rust overlapping spalling damage at bottom-center; rust overlapping rust damage at bottom-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0923",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0923.jpg",
+    "caption": "spalling overlapping rust damage at top-center; spalling overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0967",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0967.jpg",
+    "caption": "spalling overlapping crack damage at mid-center; spalling overlapping crack damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0020",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0020.jpg",
+    "caption": "efflorescence overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0022",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0022.jpg",
+    "caption": "rust overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0029",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0029.jpg",
+    "caption": "spalling overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0063",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0063.jpg",
+    "caption": "rust overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0067",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0067.jpg",
+    "caption": "wetspot overlapping efflorescence damage at bottom-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0070",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0070.jpg",
+    "caption": "spalling overlapping wetspot damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0084",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0084.jpg",
+    "caption": "rockpocket overlapping rust damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0086",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0086.jpg",
+    "caption": "spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0092",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0092.jpg",
+    "caption": "spalling overlapping rust damage at mid-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0099",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0099.jpg",
+    "caption": "rust overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0110",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0110.jpg",
+    "caption": "spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0111",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0111.jpg",
+    "caption": "spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0126",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0126.jpg",
+    "caption": "rust overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0218",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0218.jpg",
+    "caption": "efflorescence overlapping wetspot damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0260",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0260.jpg",
+    "caption": "wetspot overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0261",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0261.jpg",
+    "caption": "spalling overlapping wetspot damage at top-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0296",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0296.jpg",
+    "caption": "rust overlapping spalling damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0312",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0312.jpg",
+    "caption": "rust overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0324",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0324.jpg",
+    "caption": "spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0338",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0338.jpg",
+    "caption": "rust overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0342",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0342.jpg",
+    "caption": "spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0347",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0347.jpg",
+    "caption": "rockpocket overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0370",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0370.jpg",
+    "caption": "rust overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0392",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0392.jpg",
+    "caption": "wetspot overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0466",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0466.jpg",
+    "caption": "spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0471",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0471.jpg",
+    "caption": "spalling overlapping rust damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0536",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0536.jpg",
+    "caption": "crack overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0551",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0551.jpg",
+    "caption": "crack overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0563",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0563.jpg",
+    "caption": "spalling overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0590",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0590.jpg",
+    "caption": "spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0636",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0636.jpg",
+    "caption": "rust overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0641",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0641.jpg",
+    "caption": "spalling overlapping rust damage at bottom-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0655",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0655.jpg",
+    "caption": "rust overlapping crack damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0657",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0657.jpg",
+    "caption": "crack overlapping spalling damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0670",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0670.jpg",
+    "caption": "spalling overlapping rust damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0682",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0682.jpg",
+    "caption": "spalling overlapping rust damage at top-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0733",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0733.jpg",
+    "caption": "spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0802",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0802.jpg",
+    "caption": "spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0806",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0806.jpg",
+    "caption": "spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0807",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0807.jpg",
+    "caption": "spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0808",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0808.jpg",
+    "caption": "spalling overlapping rust damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0839",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0839.jpg",
+    "caption": "crack overlapping spalling damage at top-right"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0890",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0890.jpg",
+    "caption": "rust overlapping efflorescence damage at mid-center"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0916",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0916.jpg",
+    "caption": "cavity overlapping wetspot damage at mid-left"
+  },
+  {
+    "image_id": "dacl10k_v2_validation_0957",
+    "image_path": "output/top200_validation/dacl10k_v2_validation_0957.jpg",
+    "caption": "rockpocket overlapping wetspot damage at top-center"
+  }
+]
