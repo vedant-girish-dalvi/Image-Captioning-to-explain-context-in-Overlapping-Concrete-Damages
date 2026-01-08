@@ -30,7 +30,7 @@ The key challenge addressed here is **overlapping damage contexts** — situatio
 ---
 
 ## Repository Structure
-
+```text
 .
 ├── dataset/ # Concrete damage images and annotations
 ├── captions/ # Caption files for training
@@ -48,17 +48,20 @@ The key challenge addressed here is **overlapping damage contexts** — situatio
 
 ### 1. Clone the repo
 
+```bash
 git clone https://github.com/vedant-girish-dalvi/Image-Captioning-to-explain-context-in-Overlapping-Concrete-Damages.git
 cd Image-Captioning-to-explain-context-in-Overlapping-Concrete-Damages
 
 ### 2. Create and activate a Python (or Conda) environment 
 
+```bash
 python3 -m venv venv
 source venv/bin/activate    # macOS / Linux
 venv\Scripts\activate       # Windows
 
 ### 3. Install dependencies
 
+```bash
 pip install -r requirements.txt
 
 ### 4. Dataset
@@ -76,6 +79,7 @@ If you’re using a custom dataset, update the data loader paths accordingly.
 
 To train the image captioning model:
 
+```bash
 python train.py \
   --data_dir dataset/ \
   --epochs 30 \
@@ -86,6 +90,7 @@ python train.py \
 
 Generate captions for new images:
 
+```bash
 python inference.py \
   --image_path path/to/image.jpg \
   --model_path best_model.pth
@@ -100,6 +105,7 @@ Add visualization functions (optional) to overlay captions on images
 
 If you use this project or base your research on this work, please cite:
 
+```text
 @inproceedings{Dalvi2025ImageCaptioning,
 title = {Image Captioning for Building Damage Using Deep Learning: Explaining Context in Overlapping Structural Defects},
 author = {Dalvi, Vedant Girish and Martin, Jakob and Weilbach-Eyüboglu, Timur},
