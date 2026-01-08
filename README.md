@@ -40,7 +40,7 @@ The key challenge addressed here is **overlapping damage contexts** — situatio
 ├── utils.py # Helper functions
 ├── requirements.txt # Python dependencies
 └── README.md
-
+```
 
 ---
 
@@ -51,6 +51,7 @@ The key challenge addressed here is **overlapping damage contexts** — situatio
 ```bash
 git clone https://github.com/vedant-girish-dalvi/Image-Captioning-to-explain-context-in-Overlapping-Concrete-Damages.git
 cd Image-Captioning-to-explain-context-in-Overlapping-Concrete-Damages
+```
 
 ### 2. Create and activate a Python (or Conda) environment 
 
@@ -58,7 +59,7 @@ cd Image-Captioning-to-explain-context-in-Overlapping-Concrete-Damages
 python3 -m venv venv
 source venv/bin/activate    # macOS / Linux
 venv\Scripts\activate       # Windows
-
+```
 ### 3. Install dependencies
 
 ```bash
