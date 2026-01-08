@@ -32,12 +32,12 @@ The key challenge addressed here is **overlapping damage contexts** — situatio
 ## Repository Structure
 
 .
-├── dataset/ # Concrete damage dataset (images + annotations)
-├── captions/ # Captions/annotations files
-├── app.py # Web/API interface (optional)
-├── train.py # Training script
-├── inference.py # Inference script to generate captions
-├── utils.py # Utility functions
+├── dataset/ # Concrete damage images and annotations
+├── captions/ # Caption files for training
+├── app.py # Application / demo interface
+├── train.py # Training pipeline
+├── inference.py # Caption generation script
+├── utils.py # Helper functions
 ├── requirements.txt # Python dependencies
 └── README.md
 
