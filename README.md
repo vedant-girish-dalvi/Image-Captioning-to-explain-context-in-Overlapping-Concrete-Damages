@@ -64,7 +64,7 @@ venv\Scripts\activate       # Windows
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### 4. Dataset
 
 Place your dataset of concrete damage image + caption pairs under dataset/.
@@ -86,7 +86,7 @@ python train.py \
   --epochs 30 \
   --batch_size 32 \
   --model_out best_model.pth
-
+```
 ### 6. Inference
 
 Generate captions for new images:
@@ -95,7 +95,7 @@ Generate captions for new images:
 python inference.py \
   --image_path path/to/image.jpg \
   --model_path best_model.pth
-
+```
 ### 7. Utilities
 
 utils.py: helpers for preprocessing, tokenization, image transforms
@@ -118,6 +118,6 @@ doi = {10.18154/RWTH-CONV-254876},
 url = {https://publications.rwth-aachen.de/record/1021219}
 
 }
-
+```
 
 
